@@ -1,0 +1,21 @@
+# Paste your Google Alerts RSS feed URLs below, one per line.
+# Get these from google.com/alerts -> create/edit an alert -> "Deliver to: RSS feed"
+# -> copy the feed link. Lines starting with # are ignored.
+
+# contract farming medicinal plants
+https://www.google.com/alerts/feeds/02434486576776837872/16034474241223911493
+
+# cosmetic industry raw material crops
+https://www.google.com/alerts/feeds/02434486576776837872/16034474241223911308
+
+# herbal cosmetic ingredients sourcing
+https://www.google.com/alerts/feeds/02434486576776837872/6799573489109614184
+
+# medicinal and aromatic plants India
+https://www.google.com/alerts/feeds/02434486576776837872/6799573489109614133
+
+# nutraceutical crop industry
+https://www.google.com/alerts/feeds/02434486576776837872/13097633038899132772
+
+# pharma grade herbs cultivation
+https://www.google.com/alerts/feeds/02434486576776837872/13097633038899133741
