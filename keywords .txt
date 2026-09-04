@@ -1,0 +1,45 @@
+# Turmeric-only monitoring. One keyword/phrase per line. Lines starting with # are ignored.
+
+# --- Core ---
+turmeric
+curcumin
+curcuminoids
+Curcuma longa
+
+# --- Varieties (for tracking specific-origin news) ---
+Lakadong turmeric
+Erode turmeric
+Salem turmeric
+Nizamabad turmeric
+Waigaon turmeric
+Rajapuri turmeric
+
+# --- Pharma / nutraceutical angle ---
+turmeric pharmaceutical
+turmeric nutraceutical
+curcumin bioavailability
+curcumin extract market
+turmeric supplement market
+turmeric drug formulation
+curcumin clinical trial
+
+# --- Cosmetic angle ---
+turmeric cosmetic ingredient
+turmeric skincare
+
+# --- Export / trade / market ---
+turmeric export India
+turmeric export price
+Spices Board turmeric
+turmeric market report
+turmeric price trend
+turmeric GI tag
+turmeric import demand
+turmeric FSSAI
+turmeric MRL regulation
+
+# --- Farming / cultivation ---
+turmeric cultivation
+turmeric farming
+turmeric yield
+organic turmeric farming
