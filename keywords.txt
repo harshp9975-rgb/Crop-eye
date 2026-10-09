@@ -1,67 +1,50 @@
-# Turmeric commercial intelligence — hydroponic 20-acre operation focus
+# Turmeric intelligence queries (v3).
+# Each line is ONE Google News search. Lines starting with ## set the topic
+# used to group your email. Lines starting with a single # are comments.
+# Tips: OR groups synonyms, quotes keep a phrase together, ( ) group terms.
 
-# --- Hydroponic / cultivation-specific ---
-hydroponic turmeric
-soilless turmeric cultivation
-vertical farming turmeric
-controlled environment agriculture turmeric
-hydroponic curcumin yield
-indoor turmeric cultivation technology
+## Price and Mandi
+turmeric (price OR prices OR rates OR mandi) (Erode OR Sangli OR Nizamabad OR Salem OR Duggirala)
+turmeric (futures OR "spot price" OR NCDEX)
+turmeric (arrivals OR crop OR production OR acreage OR sowing) India
 
-# --- Value addition / processing ---
-turmeric oleoresin
-turmeric essential oil extraction
-curcumin extraction technology
-spray dried turmeric extract
-micronized curcumin
-liposomal curcumin
-nano curcumin
-turmeric capsule manufacturing
-turmeric tablet formulation
-standardized curcumin extract
-turmeric value added products
-turmeric byproduct utilization
+## Export and Trade
+turmeric (export OR exports OR exporter) (India OR "Spices Board" OR APEDA)
+turmeric (import OR demand) (USA OR EU OR Japan OR UAE OR Bangladesh OR Iran)
+"National Turmeric Board"
+turmeric ("GI tag" OR "geographical indication")
+Lakadong turmeric
 
-# --- Branding / private label ---
-private label turmeric supplements
-turmeric contract manufacturing
-turmeric white label
-D2C herbal supplement brand
-functional beverage turmeric
+## Regulation and Quality
+turmeric (FSSAI OR "pesticide residue" OR MRL OR "lead chromate" OR adulteration)
+turmeric (EU OR "European Union" OR FDA) (regulation OR ban OR limit OR rejection OR recall)
 
-# --- Buyers / market access ---
-turmeric bulk buyers
-curcumin buyer inquiry
-turmeric export tender
-turmeric contract farming buyback
-turmeric wholesale price trend
-turmeric B2B marketplace
+## Certification
+turmeric (organic OR GMP OR halal OR "ISO 22000" OR "fair trade") certification
 
-# --- Regional market / mandi prices ---
-Sangli turmeric market price
+## Processing and Value Addition
+curcumin (extraction OR oleoresin OR "essential oil" OR "spray dried")
+(nano OR liposomal OR micronized OR "water soluble") curcumin
+turmeric ("value added" OR "value-added" OR powder OR extract) (plant OR unit OR launch OR facility)
 
-# --- Certifications ---
-USDA organic turmeric certification
-GMP certified curcumin
-ISO 22000 turmeric
-Halal certified turmeric
-Fair Trade turmeric certification
-Spices Board OSCS certification
+## Pharma and Nutraceutical
+(curcumin OR turmeric) ("clinical trial" OR study OR research) (cancer OR arthritis OR inflammation OR diabetes)
+curcumin (bioavailability OR formulation OR patent)
+curcumin (supplement OR nutraceutical) market
+turmeric (pharmaceutical OR drug) formulation
 
-# --- Export / logistics ---
-turmeric FOB price
-turmeric export documentation
-turmeric import regulation USA
-turmeric import regulation EU
-turmeric pesticide residue limit
-turmeric container shipment rate
+## Brands and Buyers
+turmeric ("private label" OR "contract manufacturing" OR "white label" OR OEM)
+turmeric (brand OR D2C OR startup) (launch OR funding OR acquisition)
+turmeric ("bulk buyers" OR supplier OR importer OR tender)
 
-# --- Investment / funding ---
-agri-tech funding hydroponics
-contract farming investment turmeric
-curcumin market investment
+## Cosmetic
+turmeric (skincare OR cosmetic OR serum) ingredient
 
-# --- Innovation ---
-curcumin bioavailability technology
-turmeric nanoencapsulation
-curcumin patent filing
+## Farming and Hydroponics
+turmeric (hydroponic OR "vertical farming" OR soilless OR indoor OR polyhouse)
+turmeric (cultivation OR farming OR yield OR variety) (new OR technology OR farmers)
+turmeric ("contract farming" OR FPO OR subsidy OR MIDH)
+
+## Market Reports
+(curcumin OR turmeric) ("market size" OR forecast OR "market report" OR CAGR)
